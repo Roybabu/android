@@ -6,9 +6,6 @@
 
   <!-- Include forked AOSP -->
   <include name="omni-aosp.xml" />
-  
-   <!-- Include Extra -->
-  <include name="extra.xml" /> 
 
   <!-- Include forked CAF -->
   <include name="omni-caf.xml" />

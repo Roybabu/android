@@ -14,7 +14,8 @@
   <project path="android" name="android" remote="roy" revision="android-8.1" />
   <project path="device/qcom/sepolicy" name="android_device_qcom_caf-sepolicy" remote="omnirom" revision="android-8.1" />
   <project path="kernel/oneplus/msm8998" name="android_kernel_oneplus_msm8998" remote="roy" revision="oc-mr1" />
-
+  <project path="device/oneplus/oneplus5" name="android_device_oneplus_oneplus5" remote="roy" revision="android-8.1" />
+  
   <project path="vendor/omni" name="android_vendor_omni" remote="roy" revision="android-8.1" />
   <project path="vendor/oneplus" name="proprietary_vendor_oneplus" remote="mtresk-gitlab" revision="android-8.1" />
   <project path="vendor/nxp-nfc/interfaces/opensource/nfc" name="android_vendor_nxp-nfc_interfaces_opensource_nfc" remote="omnirom" revision="android-8.0" />

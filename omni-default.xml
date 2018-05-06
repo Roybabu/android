@@ -11,7 +11,7 @@
   <include name="omni-caf.xml" />
 
   <!-- OmniROM Projects -->
-  <project path="android" name="android" remote="mtresk" revision="android-8.1" />
+  <project path="android" name="android" remote="roy" revision="android-8.1" />
   <project path="device/qcom/sepolicy" name="android_device_qcom_caf-sepolicy" remote="omnirom" revision="android-8.1" />
   <project path="kernel/oneplus/msm8998" name="android_kernel_oneplus_msm8998" remote="roy" revision="oc-mr1" />
 
